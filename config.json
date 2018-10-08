@@ -1,10 +1,6 @@
 {
     "svgs": [
         {
-            "directory": "global-svg",
-            "spriteName": "coral.svg",
-            "htmlName": "global-index.html"
-        }, {
             "directory": "footer-svg",
             "spriteName": "coralfooter.svg",
             "htmlName": "footer-index.html"
